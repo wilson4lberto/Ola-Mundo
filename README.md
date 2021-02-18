@@ -1,2 +1,4 @@
-# Ola Mundo
- Exemplo de repositorio
+# Olá, Mundo!
+ Exemplo de repositório
+
+Criado durante uma aula ao vivo!
